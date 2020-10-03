@@ -1,3 +1,3 @@
-# name_generator
+# Name generator
 
-A random names generator app using Flutter.
+A random name generator app using Flutter.
